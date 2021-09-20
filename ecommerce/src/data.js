@@ -48,3 +48,78 @@ export const categories = [
     title: "Winter Moods",
   },
 ];
+
+export const popularProducts = [
+  {
+    id: 1,
+    img: "https://i.ibb.co/K0s9sBm/jeet-dhanoa-s-R1-Ba-Dl-RSKM-unsplash.jpg",
+  },
+  {
+    id: 2,
+    img: "https://i.ibb.co/Kjg3mrK/ruslan-bardash-4k-Tb-AMRAHt-Q-unsplash.jpg",
+  },
+  {
+    id: 3,
+    img: "https://i.ibb.co/d0DfSfk/alex-motoc-0-POw-K6i-Ai-RQ-unsplash.jpg",
+  },
+  {
+    id: 4,
+    img: "https://i.ibb.co/Pc3hKsc/taras-chernus-e-SIl-Qfib-Ao8-unsplash.jpg",
+  },
+  {
+    id: 5,
+    img: "https://i.ibb.co/Kjg3mrK/ruslan-bardash-4k-Tb-AMRAHt-Q-unsplash.jpg",
+  },
+  {
+    id: 6,
+    img: "https://i.ibb.co/KVVQ41m/jon-tyson-a-R6-Rj-BC-b-F0-unsplash.jpg",
+  },
+  {
+    id: 7,
+    img: "https://i.ibb.co/4YFJQXM/kiran-ck-LSNJ-pltdu8-unsplash.jpg",
+  },
+  {
+    id: 8,
+    img: "https://i.ibb.co/M6brtHV/mae-mu-8-Vh6ul-Kc50o-unsplash.jpg",
+  },
+  {
+    id: 9,
+    img: "https://i.ibb.co/hZvMdW6/grant-ritchie-n-w-XNtt-WVGs-unsplash-1.jpg",
+  },
+  {
+    id: 10,
+    img: "https://i.ibb.co/JFsSZ1m/grant-ritchie-Jy6-UWVb9kq-E-unsplash.jpg",
+  },
+  {
+    id: 11,
+    img: "https://i.ibb.co/K0s9sBm/jeet-dhanoa-s-R1-Ba-Dl-RSKM-unsplash.jpg",
+  },
+  {
+    id: 12,
+    img: "https://i.ibb.co/Kjg3mrK/ruslan-bardash-4k-Tb-AMRAHt-Q-unsplash.jpg",
+  },
+  {
+    id: 13,
+    img: "https://i.ibb.co/d0DfSfk/alex-motoc-0-POw-K6i-Ai-RQ-unsplash.jpg",
+  },
+  {
+    id: 14,
+    img: "https://i.ibb.co/Pc3hKsc/taras-chernus-e-SIl-Qfib-Ao8-unsplash.jpg",
+  },
+  {
+    id: 15,
+    img: "https://i.ibb.co/Kjg3mrK/ruslan-bardash-4k-Tb-AMRAHt-Q-unsplash.jpg",
+  },
+  {
+    id: 16,
+    img: "https://i.ibb.co/KVVQ41m/jon-tyson-a-R6-Rj-BC-b-F0-unsplash.jpg",
+  },
+  {
+    id: 17,
+    img: "https://i.ibb.co/Pc3hKsc/taras-chernus-e-SIl-Qfib-Ao8-unsplash.jpg",
+  },
+  {
+    id: 18,
+    img: "https://i.ibb.co/N3hfG31/mae-mu-Gn-WKTJl-MYs-Q-unsplash.jpg",
+  },
+];
