@@ -30,3 +30,21 @@ export const sliderItems = [
     bg: "f5fafd",
   },
 ];
+
+export const categories = [
+  {
+    id: 1,
+    Img: "https://i.ibb.co/PrCWsdc/varun-gaba-dcg-B3-Cgidl-U-unsplash.jpg",
+    title: "Winter Moods",
+  },
+  {
+    id: 2,
+    Img: "https://i.ibb.co/T8SPdPL/olena-sergienko-Elf-JDs4-LAQk-unsplash.jpg",
+    title: "Winter Moods",
+  },
+  {
+    id: 3,
+    Img: "https://i.ibb.co/ZK22mTM/charles-deluvio-3-IMl0k-Cxp-HQ-unsplash.jpg",
+    title: "Winter Moods",
+  },
+];
